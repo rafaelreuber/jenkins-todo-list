@@ -1,6 +1,6 @@
 # django-todolist
 
-Simple todolist write in django for general use and pipeline automation..
+Simple todolist write in django for general use and pipeline automation.
 
   - Be kind with my baby
 
